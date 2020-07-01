@@ -38,7 +38,7 @@
 
 ## Real Time Rendering
 
-[111](Moyaro⁩/3 游戏开发⁩.md)
+[111](Moyaro⁩/3 游戏开发⁩/攻略.md)
 
 [【精】图像动态范围](blogs/RTR/图像动态范围.md) ：游戏中，Gamma矫正来源、tonemapping来源与动态范围的正确解释。
 
